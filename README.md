@@ -1,7 +1,14 @@
 # Optimization Algorithms and Problems
 
 ## What is Optimization?
+
+<p align="justify">
+
 Optimization is the process of finding the best possible solution to a problem within a defined set of constraints and objectives. It plays a critical role in various fields, from engineering and computer science to finance and logistics. By maximizing or minimizing an objective function, optimization ensures efficient resource utilization, cost reduction, and enhanced performance.
+
+</p>
+
+
 ![image](https://github.com/user-attachments/assets/c0f35307-2076-4221-8155-dd9b57633f68)
 
 ### Importance of Optimization
