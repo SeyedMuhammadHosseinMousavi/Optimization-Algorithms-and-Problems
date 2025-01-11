@@ -1,9 +1,8 @@
 # Optimization Algorithms and Problems
-Optimization Algorithms and Problems
-# Optimization Algorithms and Applications
 
 ## What is Optimization?
 Optimization is the process of finding the best possible solution to a problem within a defined set of constraints and objectives. It plays a critical role in various fields, from engineering and computer science to finance and logistics. By maximizing or minimizing an objective function, optimization ensures efficient resource utilization, cost reduction, and enhanced performance.
+![image](https://github.com/user-attachments/assets/c0f35307-2076-4221-8155-dd9b57633f68)
 
 ### Importance of Optimization
 - **Efficiency:** Helps in solving complex real-world problems efficiently.
@@ -15,6 +14,7 @@ Optimization is the process of finding the best possible solution to a problem w
 2. **Evolutionary Algorithms:** Mimics natural evolution (e.g., Genetic Algorithm, Differential Evolution).
 3. **Swarm Intelligence:** Inspired by collective behavior of social creatures (e.g., Particle Swarm Optimization, Ant Colony Optimization).
 4. **Metaheuristic Optimization:** Provides approximate solutions for complex problems (e.g., Simulated Annealing, Harmony Search).
+![image](https://github.com/user-attachments/assets/fa03043a-2bcc-443d-8b4d-0de8dc9d3804)
 
 ---
 
@@ -41,6 +41,8 @@ Below is a list of algorithms implemented in this repository:
 18. **Imperialist Competitive Algorithm:** Simulates imperialistic competition.
 19. **Whale Optimization Algorithm:** Mimics the hunting behavior of humpback whales.
 20. **Grey Wolf Optimizer:** Inspired by the leadership hierarchy of grey wolves.
+![image](https://github.com/user-attachments/assets/61c671ff-b05b-4cc2-848d-472879a074af)
+![image](https://github.com/user-attachments/assets/59bd5d85-5698-4c38-bad6-29bf4fc01bb7)
 
 ---
 
