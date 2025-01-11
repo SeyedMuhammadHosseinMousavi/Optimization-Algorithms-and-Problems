@@ -48,6 +48,21 @@ Below is a list of algorithms implemented in this repository:
 18. **Imperialist Competitive Algorithm:** Simulates imperialistic competition.
 19. **Whale Optimization Algorithm:** Mimics the hunting behavior of humpback whales.
 20. **Grey Wolf Optimizer:** Inspired by the leadership hierarchy of grey wolves.
+21. **Brain Storm Optimization:** Mimics the brainstorming process for creative solutions.
+22. **Cuckoo Search:** Inspired by the brood parasitism behavior of cuckoo birds.
+23. **Biogeography-Based Optimization:** Models the migration patterns of species.
+24. **Teaching-Learning-Based Optimization:** Mimics the teaching-learning process in a classroom.
+25. **Galaxy Gravity Optimization:** Inspired by the gravitational interactions of galaxies.
+26. **Victoria Amazonica Optimization Algorithm:** Inspired by the growth and spread of the Victoria Amazonica plant.
+27. **Weevil Damage Optimization Algorithm:** Simulates the damage behavior of weevils.
+28. **MOEA/D:** A multi-objective evolutionary algorithm based on decomposition.
+29. **NSGA-II:** A fast and elitist multi-objective genetic algorithm.
+30. **Tabu Search:** Uses a tabu list to avoid cycling in search processes.
+31. **Ant Colony Optimization Bin Packing:** Specialized for solving bin packing problems.
+32. **Firefly Space-Time Bending:** A variant of Firefly Algorithm applied to space-time optimization.
+33. **Simulated Annealing Quadratic Assignment Problem:** Special implementation for QAP.
+
+
 ![image](https://github.com/user-attachments/assets/61c671ff-b05b-4cc2-848d-472879a074af)
 ![image](https://github.com/user-attachments/assets/59bd5d85-5698-4c38-bad6-29bf4fc01bb7)
 
@@ -74,6 +89,11 @@ The following problems have been solved using the above algorithms:
 16. **Regression Analysis:** Conducted using Harmony Search.
 17. **Evolved Antenna Design:** Implemented with Particle Swarm Optimization.
 18. **Exoplanetary Adaptation:** Solved with Genetic Algorithm.
+19. **Traveling Salesman Problem (Cuckoo Search):** Addressed using Cuckoo Search Algorithm.
+20. **Clustering Problem (Differential Evolution):** Solved using Differential Evolution.
+21. **Optimized Feature Selection (Bat Algorithm):** Utilized for feature selection optimization.
+22. **Protein Folding Prediction (Differential Evolution):** Addressed with advanced Differential Evolution techniques.
+
 
 ---
 
